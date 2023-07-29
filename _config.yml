@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ranjan Hebbar"
 title_separator          : "-"
 name                     : &name "Ranjan Hebbar"
-description              : &description "personal description"
+description              : &description "Memeber of Technical Staff at AMD"
 url                      : https://ranjanhebbar.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ranjanhebbar/ranjanhebbar.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &ranjan_hebbar
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ranjan Hebbar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "CPU Perfromance & Power Engineer"
   location         : "Austin, TX, USA"
-  employer         : "AMD"
+  employer         : "AMD,"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Fe1D-TsAAAAJ&hl=en"
   email            :
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0000-0002-1164-8721"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ranjanhebbar"
   vine             :
   weibo            :
   xing             :
