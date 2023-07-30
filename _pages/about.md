@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Introduction
+Bio
 ======
 
-I am an MTS-Silicon Design Engineer at AMD, Inc.. in Austin, TX. I received my Master's and Doctorate in Computer Engineering from the University of Alabama in Huntsville. 
+I am an MTS-Silicon Design Engineer at AMD, Inc.. in Austin, TX. I received my Master's (2018) and Doctorate (2021) in Computer Engineering from the University of Alabama in Huntsville. 
 
-My research interests include computer architecture, CPU power management, application tracing and characterization, virtualization, throughput computing, and compiler evaluation.
+My research interests include Computer Architecture, CPU Power Management, Application Tracing and Characterization, Virtualization, Throughput Computing, and Compiler Evaluation.
 
 In my current role at AMD, I focus on application characterization, single-threaded and multi-threaded worklaod tracing and performance bringup of client CPU products. 
 
@@ -20,7 +20,7 @@ Contact
 ======
 Ranjan Hebbar,
 Advanced Micro Devices, Inc.,
-S7171 Southwest Pkwy, 
+7171 Southwest Pkwy, 
 Austin, TX 78735
 
 Email: ranjanhebbarsr@gmail.com
