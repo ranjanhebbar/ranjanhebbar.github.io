@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronics & Communication, Visvesvaraya Technological University, 2016
+* M.Sc. in Computer Engineering, The University of Alabama in Hunstville, 2018
+* Ph.D in Computer Engineering, The University of Alabama in Hunstville, 2021
 
 Work experience
 ======
